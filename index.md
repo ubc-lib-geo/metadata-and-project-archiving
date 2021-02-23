@@ -33,4 +33,3 @@ At the end of this lab, you will be able to:
 ## Resources
 
 - [Create and Manage Metadata in ArcGIS Pro, Colin Childs](https://www.esri.com/about/newsroom/arcuser/create-and-manage-metadata-in-arcgis-pro/)
-- []()
