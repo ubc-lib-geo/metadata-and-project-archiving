@@ -7,6 +7,6 @@ has_children: true
 
 # Introduction
 
-Short introduction about the topic.
+Short introduction about the topic. Include that this was developed for a specific lab
 
 #

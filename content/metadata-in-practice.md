@@ -22,3 +22,7 @@ As a GIS practitioner, sometimes metadata can feel like a lot of work for little
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
+
+## Why is metadata important?
+
+Specific examples - interoperability, discoverability, integrity, utility...
