@@ -21,8 +21,11 @@ Keep in mind that metadata standards allow us to "cross-walk" from one standard 
 ## Changing your metadata style
 
 _1_{: .circle .circle-red} Click on the **Project** tab, then **Options**
+
 _2_{: .circle .circle-red} In the window that pops up, select **Metadata** from the menu on the left.
+
 _3_{: .circle .circle-red} Here you can choose a new metadata style. In this example we'll choose **ISO 19139 Metadata Implementation Specification**
+
 _4_{: .circle .circle-red} Click **OK** and go back to your Catalog window.
 
 ## Review the fields in your new metadata style
