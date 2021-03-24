@@ -33,4 +33,4 @@ Poll - Does anyone have metadata for their items?
 
 More information about viewing and editing metadata can be found using the ArcGIS Pro help documentation here: [https://pro.arcgis.com/en/pro-app/latest/help/metadata/view-and-edit-metadata.htm](https://pro.arcgis.com/en/pro-app/latest/help/metadata/view-and-edit-metadata.htm)
 
-[Next: Adding Metadata](adding-metadata.html)
+[Next: Changing your metadata style](changing-styles.html)
