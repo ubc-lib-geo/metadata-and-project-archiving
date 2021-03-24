@@ -20,6 +20,8 @@ Keep in mind that metadata standards allow us to "cross-walk" from one standard 
 
 ## Changing your metadata style
 
+You can change your metadata styles in ArcGIS Pro in your project options:
+
 _1_{: .circle .circle-red} Click on the **Project** tab, then **Options**
 
 _2_{: .circle .circle-red} In the window that pops up, select **Metadata** from the menu on the left.
@@ -32,9 +34,9 @@ _4_{: .circle .circle-red} Click **OK** and go back to your Catalog window.
 
 Now that your project is using a new metadata style, let's look at the new fields it contains.
 
-1. In your Catalog pane, **right-click** on an item and select **Edit Metadata**. This will open a window showing the _Item Description_ metadata block of ISO 19139.
-2. The Contents pane now shows all of the other metadata blocks for this metadata style. Click on **Citation** to see the resource citation metadata block.
-3. Review some of the other metadata blocks to become familiar with what's there
+_1_{: .circle .circle-blue} In your Catalog pane, **right-click** on an item and select **Edit Metadata**. This will open a window showing the _Item Description_ metadata block of ISO 19139.  
+_2_{: .circle .circle-blue} The Contents pane now shows all of the other metadata blocks for this metadata style. Click on **Citation** to see the resource citation metadata block.  
+_3_{: .circle .circle-blue} Review some of the other metadata blocks to become familiar with what's there.
 
 When adding metadata to your items, it's important to keep in mind that not all fields will apply, and metadata standards do not require all fields to be used. So, don't avoid creating metadata because there are so many fields In some cases there are very few required fields. Your task as the steward for your own data is to add values to fields which.
 
