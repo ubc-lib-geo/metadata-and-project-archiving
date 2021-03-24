@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Metadata in Practice
-nav_order: 1
-parent: Introduction
+nav_order: 4
+has_children: true
 ---
 
 # Metadata in Practice
