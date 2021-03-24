@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Adding metadata
-nav_order:
-parent: Introduction
+nav_order: 3
+parent: Metadata in Practice
 ---
 
 In this section we will go over how to add and edit your metadata in ArcGIS Pro

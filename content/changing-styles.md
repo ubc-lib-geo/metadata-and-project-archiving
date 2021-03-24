@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Changing metadata styles
-nav_order:
-parent: Introduction
+nav_order: 2
+parent: Metadata in Practice
 ---
 
 In this section we will go over how to change the style of metadata being used for your data in ArcGIS Pro.
@@ -15,14 +15,15 @@ In the example used so far, our metadata is formatted in the default Item Descri
 
 There are several common metadata standards available to choose from in ArcGIS Pro, and each one is different. Choosing the right one is an important consideration, however for general discoverability and interoperability purposes, as well as considering data preservation and long-term usability issues, we recommend using **ISO 19139 Implementation Specification**.
 
-NOTE: Keep in mind that metadata standards allow us to "cross-walk" from one standard to another, making conversions between standards relatively common.
+Keep in mind that metadata standards allow us to "cross-walk" from one standard to another, making conversions between standards relatively common.
+{: .note}
 
 ## Changing your metadata style
 
-1. Click on the **Project** tab, then **Options**
-2. In the window that pops up, select **Metadata** from the menu on the left.
-3. Here you can choose a new metadata style. In this example we'll choose **ISO 19139 Metadata Implementation Specification**
-4. Click **OK** and go back to your Catalog window.
+_1_{: .circle .circle-red} Click on the **Project** tab, then **Options**
+_2_{: .circle .circle-red} In the window that pops up, select **Metadata** from the menu on the left.
+_3_{: .circle .circle-red} Here you can choose a new metadata style. In this example we'll choose **ISO 19139 Metadata Implementation Specification**
+_4_{: .circle .circle-red} Click **OK** and go back to your Catalog window.
 
 ## Review the fields in your new metadata style
 
