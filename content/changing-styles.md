@@ -41,6 +41,6 @@ _2_{: .circle .circle-blue} The Contents pane now shows all of the other metadat
 _3_{: .circle .circle-blue} Review some of the other metadata blocks to become familiar with what's there.
 
 ArcGIS Pro displays mandatory metadata fields missing values with a **red X** in the Contents pane. Mandatory fields will change depending on which metadata standard you choose.
-{: .warning}
+{: .warn}
 
 When adding metadata to your items, it's important to keep in mind that not all fields will apply, and metadata standards do not require all fields to be used. So, don't avoid creating metadata because there are so many fields In some cases there are very few required fields. Your task as the steward for your own data is to add values to fields which.
