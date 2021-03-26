@@ -2,7 +2,7 @@
 layout: default
 title: Changing metadata styles
 nav_order: 6
-parent: Metadata in Practice
+parent: Metadata in practice
 ---
 
 In this section we will go over how to change the style of metadata being used for your data in ArcGIS Pro.

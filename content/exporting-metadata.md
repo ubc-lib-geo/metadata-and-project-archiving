@@ -2,7 +2,7 @@
 layout: default
 title: Exporting metadata
 nav_order: 8
-parent: Metadata in Practice
+parent: Metadata in practice
 ---
 
 In this section we will go over how to export your metadata in ArcGIS Pro.

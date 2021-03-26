@@ -2,7 +2,7 @@
 layout: default
 title: Reviewing your metadata
 nav_order: 5
-parent: Metadata in Practice
+parent: Metadata in practice
 ---
 
 # Reviewing your metadata
