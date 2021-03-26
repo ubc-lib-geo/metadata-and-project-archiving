@@ -16,7 +16,7 @@ Individual file, feature class, and raster dataset metadata can be viewed using 
 If you don't already have a folder connection to your data, you can add it by right-clicking **Folders > Add Folder Connection**.
 {: .note}
 
-![Catalog View pane](catalogpane.png)
+![Catalog View pane](images/catalogpane.jpg)
 
 To view an item's metadata, right-click the file and select **View Metadata**. In the example below we can see the item is missing a title, as well as these metadata fields:
 
@@ -28,7 +28,7 @@ To view an item's metadata, right-click the file and select **View Metadata**. I
 - Extent
 - Scale Range
 
-![Viewing Metadata](viewingmetadata.png)
+![Viewing Metadata](images/viewingmetadata.jpg)
 
 Poll - Does anyone have metadata for their items?
 
