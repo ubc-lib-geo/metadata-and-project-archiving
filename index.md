@@ -32,4 +32,5 @@ At the end of this lab, you will be able to:
 
 ## Resources
 
+- [UBC Library Guides for everything Dataverse](https://researchdata.library.ubc.ca/share/share-your-data/)
 - [Create and Manage Metadata in ArcGIS Pro, Colin Childs](https://www.esri.com/about/newsroom/arcuser/create-and-manage-metadata-in-arcgis-pro/)
