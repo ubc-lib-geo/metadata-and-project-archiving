@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Preparing your research data
-nav_order: 6
-parent: Introduction
+title: Depositing your research data
+nav_order: 4
+has_children: true
 ---
 
 In this section we will go over data sharing and data repositories.

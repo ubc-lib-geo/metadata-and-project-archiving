@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adding metadata
+title: Exporting metadata
 nav_order: 4
 parent: Metadata in Practice
 ---
