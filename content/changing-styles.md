@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Changing metadata styles
-nav_order: 2
+nav_order: 6
 parent: Metadata in Practice
 ---
 
 In this section we will go over how to change the style of metadata being used for your data in ArcGIS Pro.
 
-## Metadata styles in ArcGIS Pro
+# Metadata styles in ArcGIS Pro
 
 ArcGIS Pro provides some additional options for the style of metadata used for your items. These styles can correspond to more common and robust geographic metadata standards such as FGDC and ISO 19115/19139, and aligning your metadata descriptions with a metadata standard can improve its interoperability and discoverability outside ArcGIS Pro.
 

@@ -6,7 +6,7 @@ nav_order: 1
 
 ## Note: this workshop is in development and not yet complete.
 
-This is a lab website for the UBC Faculty of Forestry's MGEM program focusing on managing metadata in ArcGIS Pro.
+This is a lab website for the UBC Faculty of Forestry's MGEM program focusing on managing metadata in ArcGIS Pro, and depositing research data into Dataverse.
 
 ## Learning objectives
 

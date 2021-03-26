@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dataverse
-nav_order: 7
+nav_order: 10
 parent: Depositing your research data
 ---
 

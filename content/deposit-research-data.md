@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Depositing your research data
-nav_order: 5
+nav_order: 9
 has_children: true
 has_toc: false
 ---

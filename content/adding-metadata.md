@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adding metadata
-nav_order: 3
+nav_order: 7
 parent: Metadata in Practice
 ---
 
