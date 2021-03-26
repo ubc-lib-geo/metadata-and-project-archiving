@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Metadata in Practice
+title: Metadata in practice
 nav_order: 4
 has_children: true
 ---
