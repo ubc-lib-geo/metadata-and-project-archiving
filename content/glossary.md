@@ -12,6 +12,8 @@ nav_order: 11
 
 - **Content standard** -
 
+- **Crosswalk (metadata)** - Translating metadata from one schema to another.
+
 - **Federal Geographic Data Committee (FGDC)** -
 
 - **FGDC Content Standard for Digital Geospatial Metadata (CSDGM)** -
