@@ -13,7 +13,7 @@ As a GIS practitioner, sometimes metadata can feel like a lot of work for little
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="https://ubc-lib-geo.github.io/presentations/fcor599#/" title="metadata in practice" scrolling="no" frameborder="0"
+  <iframe src="slides/introduction.html" title="metadata in practice" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
