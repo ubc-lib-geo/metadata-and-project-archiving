@@ -20,14 +20,13 @@ At the end of this lab, you will be able to:
 
 ## Schedule
 
-| 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
+| 0:00 | Announcement from Dr. Paul Pickell|
+| 0:10 | Introduction |  
 | 0:15 | Metadata in practice [slides] |
+| 0:25 | ArcGIS Pro metadata workflows |  
 | 0:55 | Break |  
-| 1:00 | Reviewing your metadata in ArcGIS Pro|
-| 1:10 | Changing the metadata style and editing |
-| 1:15 | Research data and metadata |
-| 1:35 | Prepare your research data for Dataverse |
+| 1:00 | Sharing your research data |
+| 1:15 | Depositing your data in Dataverse |
 | 1:45 | Q & A |
 
 ## Resources
