@@ -37,16 +37,16 @@ At the end of this lab, you will be able to:
 
 #### Research Data Management
 
-**Doug Brigham** Research Data Management Librarian
+**Doug Brigham** Research Data Management Librarian  
 doug.brigham@ubc.ca
 
-**Library Resarch Data Management Team**
+**Library Resarch Data Management Team**  
 research.data@ubc.ca
 
 #### Maps/GIS
 
-**Evan Thornberry** Geographic Information Systems Librarian
+**Evan Thornberry** Geographic Information Systems Librarian  
 [Schedule a consultation](https://libcal.library.ubc.ca/appointments/evanthornberry) | evan.thornberry@ubc.ca
 
-**Library GIS Team**
+**Library GIS Team**  
 library.gis@ubc.ca
