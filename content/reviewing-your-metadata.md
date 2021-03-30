@@ -35,5 +35,3 @@ To view an item's metadata, right-click the file and select **View Metadata**. I
 Does anyone have, or has anyone added metadata for their items?
 
 More information about viewing and editing metadata can be found using the ArcGIS Pro help documentation here: [https://pro.arcgis.com/en/pro-app/latest/help/metadata/view-and-edit-metadata.htm](https://pro.arcgis.com/en/pro-app/latest/help/metadata/view-and-edit-metadata.htm)
-
-[Next: Changing your metadata style](changing-styles.html)
