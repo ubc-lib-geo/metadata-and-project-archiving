@@ -26,6 +26,8 @@ nav_order: 11
 
 - **ISO 19139** -
 
+- **ISO 32000-1:2008** -
+
 - **Metadata Schema** - A schema describes the structure of your metadata and how the metadata about your object is set up.
 
 - **Metadata Standard** - A very widely agreed upon schema which has been endorsed by a community or standards organization, like ISO or FGDC.
