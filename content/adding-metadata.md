@@ -5,7 +5,7 @@ nav_order: 7
 parent: Metadata in practice
 ---
 
-In this section we will go over how to add and edit your metadata in ArcGIS Pro
+In this section we will go over how to add metadata to your items in ArcGIS Pro
 
 # Adding metadata
 
