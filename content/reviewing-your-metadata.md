@@ -13,6 +13,8 @@ Sometimes metadata can be hard to interpret without the use of a metadata editor
 
 Metadata for an item (Shapefile, feature class, geodatabase, raster dataset, etc.) can be viewed using the Metadata Viewer in Catalog View. To enable the Catalog View pane in ArcGIS Pro, click **View > Catalog View**. In this example we're going to view the metadata for files and feature classes which exist outside of the default project geodatabase.
 
+![right click menu](images/right-click-menu.png)
+
 If you don't already have a folder connection to your data, you can add it by right-clicking **Folders > Add Folder Connection**.
 {: .note}
 

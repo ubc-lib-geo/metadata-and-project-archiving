@@ -7,11 +7,17 @@ parent: Depositing your research data
 
 In this section we will go over UBC's institutional data repository, Dataverse.
 
+## Dataverse and FRDR
+
 UBC provides researchers with two institutional data repositories: Dataverse and the Federal Research Data Repository (FRDR). We’re going to focus on Dataverse because this is the repository you will use to deposit your MGEM data. Just so you know, [FRDR](https://www.frdr-dfdr.ca/repo/) is a federated research data repository: it harvests datasets from other Canadian repositories (including Dataverse) and makes them available on a unified platform. We encourage you to check FRDR out and to watch its growth in the next few years because it will become an important source for data from Canadian researchers.
+
+### Geodisy
 
 As an added bonus, Evan is one of the people responsible for the development of [Geodisy](https://geo.frdr-dfdr.ca/), which is a geospatial data search layer built on top of Dataverse in collaboration with the FRDR organization. Adding geospatial metadata to your dataset in Dataverse will help Geodisy situate your data in its geospatial index.
 
 [UBC’s Dataverse](https://dataverse.scholarsportal.info/) is hosted by [Scholars Portal](https://scholarsportal.info/), an academic research initiative based in Ontario. You can use your UBC CWL to [log in](https://dataverse.scholarsportal.info/loginpage.xhtml) to Dataverse. Once you’ve logged in, navigate to the Faculty of Forestry dataverse and then to the MGEM dataverse; or go to the direct link: **[https://dataverse.scholarsportal.info/dataverse/UBC_MGEM](https://dataverse.scholarsportal.info/dataverse/UBC_MGEM)**.
+
+## Workflow for depositing into Dataverse
 
 François’ handout tells you all about the nuts and bolts of depositing your MGEM capstone project. My demo will take you through a deposit on the Dataverse demo platform, so you can see how it works, and to give you some pointers. Here are the things you must do, and some things we strongly recommend you do, roughly in the order in which you will need to do them:
 
