@@ -22,10 +22,8 @@ nav_order: 11
 
 - **ISO 19139** - ISO's XML implementation rules for encoding geospatial metadata.
 
-- **ISO 32000-1:2008** -
+* **Metadata Schema** - A schema describes the structure of your metadata and how the metadata about your object is set up.
 
-- **Metadata Schema** - A schema describes the structure of your metadata and how the metadata about your object is set up.
+* **Metadata Standard** - A very widely agreed upon schema which has been endorsed by a community or standards organization, like ISO or FGDC.
 
-- **Metadata Standard** - A very widely agreed upon schema which has been endorsed by a community or standards organization, like ISO or FGDC.
-
-- **Reproducibility** - The potential for your research data to be used to replicate your findings. As a rule, your published data should be as seamlessly reproducible as possible so that others can verify your findings and build from your research.
+* **Reproducibility** - The potential for your research data to be used to replicate your findings. As a rule, your published data should be as seamlessly reproducible as possible so that others can verify your findings and build from your research.
