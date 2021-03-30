@@ -6,25 +6,21 @@ nav_order: 11
 
 ## Glossary of geographic metadata related terms
 
-- **ArcGIS Metadata XML** -
-
 - **Discoverable** - A characteristic of data that allows it to be searched and found by others, usually by a search keyword or other metadata descriptor.
-
-- **Content standard** -
 
 - **Crosswalk (metadata)** - Translating metadata from one schema to another.
 
-- **Federal Geographic Data Committee (FGDC)** -
+- **Federal Geographic Data Committee (FGDC)** - A committee of the U.S. government which facilitates the creation, sharing, use/reuse, and distribution of geospatial data on a national level.
 
-- **FGDC Content Standard for Digital Geospatial Metadata (CSDGM)** -
+- **FGDC Content Standard for Digital Geospatial Metadata (CSDGM)** - The FGDC's geographic metadata standard.
 
-- **International Standardization Organization (ISO)** -
+- **International Standardization Organization (ISO)** - The International Organization for Standardization, which creates and promotes standards for various products, disciplines, and industries.
 
-- **ISO 8601** -
+- **ISO 8601** - ISO's date and time representation for data elements.
 
-- **ISO 19115** -
+- **ISO 19115** - ISO's metadata standard for describing geographic information and geographic information services.
 
-- **ISO 19139** -
+- **ISO 19139** - ISO's XML implementation rules for encoding geospatial metadata.
 
 - **ISO 32000-1:2008** -
 
