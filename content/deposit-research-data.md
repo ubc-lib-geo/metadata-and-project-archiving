@@ -2,8 +2,6 @@
 layout: default
 title: Depositing your research data
 nav_order: 9
-has_children: true
-has_toc: false
 ---
 
 In this section we will go over data sharing and data repositories.
