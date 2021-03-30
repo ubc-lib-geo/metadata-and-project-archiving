@@ -15,12 +15,12 @@ In the example used so far, our metadata is formatted in the default Item Descri
 
 There are several common metadata standards available to choose from in ArcGIS Pro, and each one is different. Choosing the right one is an important consideration, however for general discoverability and interoperability purposes, as well as considering data preservation and long-term usability issues, we recommend using **ISO 19139 Implementation Specification**.
 
-Keep in mind that metadata standards allow us to "cross-walk" from one standard to another, making conversions between standards relatively common.
+Metadata standards allow us to "**crosswalk**" from one standard to another, making conversions between standards relatively common.
 {: .note}
 
 ## Change your metadata style
 
-You can change your metadata styles in ArcGIS Pro in your project options:
+You can change your project's metadata styles in ArcGIS Pro in your project option menu:
 
 _1_{: .circle .circle-red} Click on the **Project** tab, then **Options**
 
@@ -28,7 +28,7 @@ _2_{: .circle .circle-red} In the window that pops up, select **Metadata** from 
 
 _3_{: .circle .circle-red} Here you can choose a new metadata style. In this example we'll choose **ISO 19139 Metadata Implementation Specification**
 
-_4_{: .circle .circle-red} Click **OK** and go back to your Catalog window.
+_4_{: .circle .circle-red} Click **OK** and go back to your Catalog window to see your metadata elements.
 
 ## Review the fields in your new metadata style
 
@@ -43,4 +43,4 @@ _3_{: .circle .circle-blue} Review some of the other metadata blocks to become f
 ArcGIS Pro displays mandatory metadata fields missing values with a **red X** in the Contents pane. Mandatory fields will change depending on which metadata standard you choose.
 {: .warn}
 
-When adding metadata to your items, it's important to keep in mind that not all fields will apply, and metadata standards do not require all fields to be used. So, don't avoid creating metadata because there are so many fields In some cases there are very few required fields. Your task as the steward for your own data is to add values to fields which.
+When adding metadata to your items, it's important to keep in mind that not all elements will apply, and metadata standards do not require all elements to be used. So, don't avoid creating metadata because there are so many fields. In some cases there are very few required fields. Your task as the steward for your own data is to add values to fields which you know are important for reuse and discovery.
