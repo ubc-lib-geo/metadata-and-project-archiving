@@ -13,6 +13,8 @@ Your data may not have any existing metadata descriptions for the fields that ap
 
 Below are some metadata elements you should pay particular attention to when using ArcGIS Pro's ISO 19115-3 metadata style.
 
+![Metadata Block Menu](images/metadatablockmenu.jpg)
+
 ## Overview
 
 ### Item Description
