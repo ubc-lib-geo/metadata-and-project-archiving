@@ -20,6 +20,8 @@ nav_order: 11
 
 - **International Standardization Organization (ISO)** -
 
+- **ISO 8601** -
+
 - **ISO 19115** -
 
 - **ISO 19139** -
@@ -29,5 +31,3 @@ nav_order: 11
 - **Metadata Standard** - A very widely agreed upon schema which has been endorsed by a community or standards organization, like ISO or FGDC.
 
 - **Reproducibility** - The potential for your research data to be used to replicate your findings. As a rule, your published data should be as seamlessly reproducible as possible so that others can verify your findings and build from your research.
-
-- **Tags** -
