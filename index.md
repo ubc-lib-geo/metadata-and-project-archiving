@@ -13,14 +13,13 @@ This is a lab website for the UBC Faculty of Forestry's MGEM program focusing on
 At the end of this lab, you will be able to:
 
 1. Interpret essential metadata concepts and terminology
-2. Recognize information about your data that should be included in your metadata
+2. Recognize information about your data that should be included in your GIS metadata
 3. Recognize the differences between your file metadata and your research metadata
-4. Compose appropriate metadata field descriptions
-5. Apply metadata management best practices for your data in ArcGIS Pro and Dataverse
+4. Apply data deposit best practices for your research data and metadata into Dataverse
 
 ## Schedule
 
-| 0:00 | Announcement from Dr. Paul Pickell|
+| 0:00 | Announcement from Dr. Paul Pickell |
 | 0:10 | Introduction |  
 | 0:15 | Metadata in practice [slides] |
 | 0:25 | ArcGIS Pro metadata workflows |  
