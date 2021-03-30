@@ -66,3 +66,6 @@ In this section you can add information for each of your item's attributes where
 ## Save your metadata
 
 You should save your data while working through the elements. Once you're ready, you can **save your changes from the Catalog's Metadata tab** to see your changes. Adding missing mandatory information will replace those red Xs with green checks.
+
+If you're saving metadata for your Shapefiles, this method will also create an XML file which resides in the same directory as the remaining Shapefile sidecar files.
+{: .note}
