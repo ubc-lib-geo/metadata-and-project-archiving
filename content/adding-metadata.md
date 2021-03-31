@@ -65,6 +65,10 @@ This is automatically populated by ArcGIS Pro, but you should still be especiall
 
 In this section you can add information for each of your item's attributes where applicable. A good portion of this info is automatically populated, but you should add **Definition** and **Definition Source** where needed. The Definition Source should be used if your attribute values are classified using recognized systems (example: Koppen climate classification system).
 
+### Geoprocessing History
+
+Your ArcGIS Pro project will log the tools used with your dataset. This geoprocessing history (tool name, parameters, time used, etc.) can be preserved in your metadata here. **Check your Geoprocessing settings in your Analysis ribbon to ensure this option is enabled**. More information can be found using the [ArcGIS Pro Geoprocessing History documentation](https://pro.arcgis.com/en/pro-app/latest/help/analysis/geoprocessing/basics/geoprocessing-history.htm).
+
 ## Save your metadata
 
 You should save your data while working through the elements. Once you're ready, you can **save your changes from the Catalog's Metadata tab** to see your changes. Adding missing mandatory information will replace those red Xs with green checks.
