@@ -36,4 +36,6 @@ In the example we can see the item is missing a title, as well as these metadata
 - Extent
 - Scale Range
 
+These fields represent the default ArcGIS metadata style Item Description, so in the next section we'll change this to reflect a more widely used metadata standard.
+
 More information about viewing and editing metadata can be found using the ArcGIS Pro help documentation here: [https://pro.arcgis.com/en/pro-app/latest/help/metadata/view-and-edit-metadata.htm](https://pro.arcgis.com/en/pro-app/latest/help/metadata/view-and-edit-metadata.htm)
