@@ -24,7 +24,7 @@ _1_{: .circle .circle-blue} Get yourself an [ORCID](https://orcid.org/). This is
 
 _2_{: .circle .circle-blue} Organize your data on your local computer. Create a directory for your data deposit. Create a sub-directory for each main type of data you’re going to deposit. I’ve created directories for data and for scripts, for my demo.
 
-_3_{: .circle .circle-blue} Check out our [guidance on creating README files](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf). Have a look at [the Cornell site for creating READMEs)[https://data.research.cornell.edu/content/readme]; you can download their template README file and work from it. That’s what I did for today’s demo. I’ll explain why you will put a lot of the same metadata in your README file and in Dataverse.
+_3_{: .circle .circle-blue} Check out our [guidance on creating README files](https://researchdata-06oct2014.sites.olt.ubc.ca/files/2020/04/QuickGuide_UBC_readme_v1.0_20200427.pdf). Have a look at [the Cornell site for creating READMEs](https://data.research.cornell.edu/content/readme); you can download their template README file and work from it. That’s what I did for today’s demo. I’ll explain why you will put a lot of the same metadata in your README file and in Dataverse.
 
 _4_{: .circle .circle-blue} Think of a title and a description for your dataset. You could probably use the same ones as in your final report.
 
