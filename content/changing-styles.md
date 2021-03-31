@@ -13,7 +13,7 @@ ArcGIS Pro provides some additional options for the style of metadata used for y
 
 In the example used so far, our metadata is formatted in the default Item Description metadata style. We can change this style to conform to a more common metadata standard.
 
-There are several common metadata standards available to choose from in ArcGIS Pro, and each one is different. Choosing the right one is an important consideration, however for general discoverability and interoperability purposes, as well as considering data preservation and long-term usability issues, we recommend using **ISO 19139 Implementation Specification**.
+There are several common metadata standards available to choose from in ArcGIS Pro, and each one is different. Choosing the right one is an important consideration, however for general discoverability and interoperability purposes, as well as considering data preservation and long-term usability issues, we recommend using **ISO 19139 Implementation Specification**, or another ISO standard.
 
 Metadata standards allow us to "**crosswalk**" from one standard to another, making conversions between standards relatively common.
 {: .note}
@@ -29,6 +29,8 @@ _2_{: .circle .circle-red} In the window that pops up, select **Metadata** from 
 _3_{: .circle .circle-red} Here you can choose a new metadata style. In this example we'll choose **ISO 19139 Metadata Implementation Specification**
 
 _4_{: .circle .circle-red} Click **OK** and go back to your Catalog window to see your metadata elements.
+
+![Change metadata style](images/change-style.png)
 
 ## Review the fields in your new metadata style
 
