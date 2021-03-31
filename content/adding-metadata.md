@@ -11,7 +11,7 @@ In this section we will go over how to add metadata to your items in ArcGIS Pro
 
 Your data may not have any existing metadata descriptions for the fields that appear in your metadata editor. That's because either your data did not come with any metadata (if you're using data from an external source), or you have not included it for the data that you created.
 
-Below are some metadata elements you should pay particular attention to when using ArcGIS Pro's ISO 19115-3 metadata style.
+Below are some metadata elements you should pay particular attention to when using ArcGIS Pro's ISO 19139 metadata style.
 
 ![Metadata Block Menu](images/metadatablockmenu.jpg)
 

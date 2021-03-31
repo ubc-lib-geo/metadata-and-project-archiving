@@ -17,8 +17,8 @@ _1_{: .circle .circle-red} In the **Catalog menu's Metadata section**, click on 
 
 _2_{: .circle .circle-red} In the new modal window, save **Without Sensitive Information**
 
-_3_{: .circle .circle-red} Export your data as the **Current style (ISO19115_3)**
+_3_{: .circle .circle-red} Export your data as the **Current style**
 
-_4_{: .circle .circle-red} Export your data to the same directory where your items is located. For example if you're saving the metadata describing a Shapefile, export to the same folder as the compressed .zip folder.
+_4_{: .circle .circle-red} **Export your data to the same directory where your items is located**. For example if you're saving the metadata describing a Shapefile, export to the same folder as the compressed .zip folder. This will allow your metadata file to be more visible to users, or parsed more easily than if it were contained inside your compressed file
 
 Once your metadata is exported, be sure to include it whenever you share or deposit your data.
