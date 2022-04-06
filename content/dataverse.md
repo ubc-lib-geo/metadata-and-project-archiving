@@ -20,8 +20,8 @@ As an added bonus, the Library Research Commons team has developed [Geodisy](htt
 
 Take a look at our one-pagers to learn more about data deposits in Dataverse -- 
 - [What is Dataverse?](https://portagenetwork.ca/wp-content/uploads/2019/01/Dataverse-BB_EN.pdf)
-- [Quick Guide to UBC Dataverse] – Something brief, just to get you started.(https://osf.io/sczv5/)
-- [Extended Guide to UBC Dataverse] – More detailed information about data discovery, file formats, DOIs, Private URLs, access control, licenses, file size, version control and more.(https://osf.io/5u4f3). 
+- [Quick Guide to UBC Dataverse](https://osf.io/sczv5/) – Something brief, just to get you started.
+- [Extended Guide to UBC Dataverse](https://osf.io/5u4f3) – More detailed information about data discovery, file formats, DOIs, Private URLs, access control, licenses, file size, version control and more. 
 
 
 > When in doubt, please contact **[research.data@ubc.ca](mailto:research.data@ubc.ca)** for help! 
