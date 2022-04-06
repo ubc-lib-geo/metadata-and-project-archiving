@@ -23,7 +23,7 @@ In March 2021, the Canadian Institutes of Health Research (CIHR), the Natural Sc
 
 **Does that mean that your research data needs to be freely available to everyone?** Not necessarily. Some data cannot be freely and openly shared: data that has specific licensing constraints or data that is ecologically or personally sensitive. Although you will still be required to retain and preserve that data, it is possible to make other researchers aware of the existence of the data without opening up the data itself.
 
-For your MGEM capstone project, however, you're going to deposit your final report and the supporting data in a publicly accessible data repository, Dataverse.
+For your MGEM capstone project, however, you're going to deposit your final report and the supporting data in a publicly accessible data repository, [UBC Dataverse](https://researchdata.library.ubc.ca/deposit/dataverse).
 
 # Data repositories
 
@@ -39,4 +39,4 @@ Research institutions might have data repositories that are not publicly accessi
 
 The [re3data website](https://www.re3data.org/) provides a valuable registry of data repositories across many disciplines. It can be an excellent place to start when you're looking for data to support your own research.
 
-Our focus is on depositing research data in a publicly accessible repository to make it available for other researchers to find and re-use. In order for it to be findable, you have to pair your data files with some descriptive metadata. This type of metadata is similar to what Evan just talked about, but is oriented more toward search and discovery systems. Preparing the metadata takes a bit of work and experience, but if you've been methodical in working with your data it shouldn't be too onerous.
+Our focus is on depositing research data in a publicly accessible repository to make it available for other researchers to find and re-use. In order for it to be findable, you have to pair your data files with some descriptive metadata and README files. This type of metadata is similar to what Evan just talked about, but is oriented more toward search and discovery systems. Preparing the metadata takes a bit of work and experience, but if you've been methodical in working with your data it shouldn't be too onerous.
