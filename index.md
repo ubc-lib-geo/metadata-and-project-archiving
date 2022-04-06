@@ -15,17 +15,6 @@ At the end of this lab, you will be able to:
 3. Recognize the differences between your file metadata and your research metadata
 4. Apply data deposit best practices for your research data and metadata into Dataverse
 
-## Schedule
-
-| 0:00 | Announcement from Dr. Paul Pickell |
-| 0:10 | Introduction |  
-| 0:15 | Metadata in practice [slides] |
-| 0:25 | ArcGIS Pro metadata workflows |  
-| 0:55 | Break |  
-| 1:00 | Sharing your research data |
-| 1:15 | Depositing your data in Dataverse |
-| 1:45 | Q & A |
-
 ## Resources
 
 - [UBC Library Guides for everything Dataverse](https://researchdata.library.ubc.ca/share/share-your-data/)
@@ -34,18 +23,8 @@ At the end of this lab, you will be able to:
 
 ## Contacts
 
-#### Research Data Management
-
-**Doug Brigham** Research Data Management Librarian  
-doug.brigham@ubc.ca
-
 **Library Resarch Data Management Team**  
 research.data@ubc.ca
-
-#### Maps/GIS
-
-**Evan Thornberry** Geographic Information Systems Librarian  
-[Schedule a consultation](https://libcal.library.ubc.ca/appointments/evanthornberry) | evan.thornberry@ubc.ca
 
 **Library GIS Team**  
 library.gis@ubc.ca
