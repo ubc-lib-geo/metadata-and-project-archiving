@@ -30,7 +30,7 @@ For your MGEM capstone project, however, you're going to deposit your final repo
 Data repositories are online platforms that allow for the storing and sharing of the types of metadata Evan discussed alongside research data files. Many different types of organizations host data repositories, each for their own reasons. Some examples include:
 
 - [Mendeley Data](https://data.mendeley.com/), hosted by the publisher Elsevier
-- [Dryad](https://datadryad.org/stash), a non-profit organization
+- [Dryad](https://datadryad.org/stash), a non-profit organization, focusing mostly on life sciences data
 - [Environmental Data Initiative Repository](https://portal.edirepository.org/nis/home.jsp)
 - [British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca), hosted by the government of BC
 - [Scholars Portal Dataverse](https://dataverse.scholarsportal.info/), hosted by Scholars Portal
